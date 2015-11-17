@@ -1,6 +1,7 @@
 # Solutions
 
 Selected problems from [Project Euler](https://projecteuler.net/)
+
 **Warning, solutions are most likely not ideally optimized**
 
 ===
